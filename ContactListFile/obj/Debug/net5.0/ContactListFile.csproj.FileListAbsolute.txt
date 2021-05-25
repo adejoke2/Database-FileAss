@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\ContactListFile\bin\Debug\net5.0\ContactListFile.exe
+C:\Users\ADMIN\Desktop\ContactListFile\bin\Debug\net5.0\ContactListFile.deps.json
+C:\Users\ADMIN\Desktop\ContactListFile\bin\Debug\net5.0\ContactListFile.runtimeconfig.json
+C:\Users\ADMIN\Desktop\ContactListFile\bin\Debug\net5.0\ContactListFile.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\ContactListFile\bin\Debug\net5.0\ContactListFile.dll
+C:\Users\ADMIN\Desktop\ContactListFile\bin\Debug\net5.0\ref\ContactListFile.dll
+C:\Users\ADMIN\Desktop\ContactListFile\bin\Debug\net5.0\ContactListFile.pdb
+C:\Users\ADMIN\Desktop\ContactListFile\obj\Debug\net5.0\ContactListFile.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\ContactListFile\obj\Debug\net5.0\ContactListFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\ContactListFile\obj\Debug\net5.0\ContactListFile.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\ContactListFile\obj\Debug\net5.0\ContactListFile.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\ContactListFile\obj\Debug\net5.0\ContactListFile.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\ContactListFile\obj\Debug\net5.0\ContactListFile.dll
+C:\Users\ADMIN\Desktop\ContactListFile\obj\Debug\net5.0\ref\ContactListFile.dll
+C:\Users\ADMIN\Desktop\ContactListFile\obj\Debug\net5.0\ContactListFile.pdb
+C:\Users\ADMIN\Desktop\ContactListFile\obj\Debug\net5.0\ContactListFile.genruntimeconfig.cache
